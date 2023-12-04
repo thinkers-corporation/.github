@@ -1,2 +1,8 @@
-# .github
-Thinkers Corporation Private Limited
+- 👋 Hi, I’m @thinkers-corporation   account to host/serve our company  Thinkers Corporation Private Limited
+- 👀 I’m the account responsible to host our projects ...
+- 🌱 I’m currently ACTIVELY developing projects ...
+- 💞️ I’m looking to collaborate on more projects  with our team ...
+
+
+
+
